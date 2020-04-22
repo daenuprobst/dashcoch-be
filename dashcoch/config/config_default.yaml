@@ -161,17 +161,17 @@ i18n:
     - Total Bestätigte Fälle
     - Total des Cas Confirmés
   reported_cases_today:
-    - Reported Cases Today
-    - Bestätigte Fälle Heute
-    - Cas Confirmés Aujourd'hui
+    - Newly Reported Cases
+    - Neu Bestätigte Fälle
+    - Cas Nouvellement Confirmés
   total_fatalities:
     - Total Fatalities
     - Total Verstorbene
     - Totalement Décédé
   regions_updated_today:
-    - Regions Updated Today
-    - Heute Aktualisierte Verwaltungskreise
-    - Mise à Jour des Arrondissements Administratifs Aujourd'hui
+    - Regions Updated 
+    - Aktualisierte Verwaltungskreise
+    - Mise à Jour des Arrondissements Administratifs
   latest_updates:
     - "Latest Updates:"
     - "Zuletzt Aktualisiert:"
