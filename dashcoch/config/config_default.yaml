@@ -40,6 +40,12 @@ logo:
   width: 50px
   src: /assets/be.png
 
+banner:
+  display: none
+  href: 
+  src: 
+  width:
+
 settings:
   update_interval: 600
   languages:
