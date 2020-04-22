@@ -150,7 +150,7 @@ i18n:
     - "More scientific information on the pandemic can be found here: [ZHAW COVID-19 Social Monitor](https://www.zhaw.ch/de/sml/institute-zentren/wig/projekte/covid-19-social-monitor/), [Recent scientific articles curated by the University Hospital Bern](https://www.update-covid.ch)"
     - "Weitere wissenschaftliche Informationen zur Pandemie finden Sie hier: [ZHAW COVID-19 Social Monitor](https://www.zhaw.ch/de/sml/institute-zentren/wig/projekte/covid-19-social-monitor/), [Aktuelle wissenschaftliche Artikel des Universitätsklinikums Bern](https://www.update-covid.ch)"
     - "De plus amples informations scientifiques sur la pandémie sont disponibles ici: [ZHAW COVID-19 Social Monitor](https://www.zhaw.ch/de/sml/institute-zentrum/wig/projekte/covid-19-social-monitor/) , [Articles scientifiques actuels de la Clinique universitaire de Berne](https://www.update-covid.ch)"
-    total_reported_cases:
+  total_reported_cases:
     - Total Reported Cases
     - Total Bestätigte Fälle
     - Total des Cas Confirmés
